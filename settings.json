@@ -1,0 +1,4 @@
+{
+    "SITE_URL":"http://{site_ip}",
+    "SERVICE_PORT": "{port}"
+}
